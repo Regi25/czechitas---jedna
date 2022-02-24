@@ -1,4 +1,4 @@
-import "./soubor/ukol2.js";
+import "./soubor/ukol3.js";
 
 /*let jmeno = "Petra";
 let vek = 34;
