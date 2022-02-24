@@ -5,3 +5,5 @@ while (pocitadlo != 0) {
   if (pocitadlo > 0) {
     break;
   }
+  pocitadlo = pocitadlo + 1;
+}
