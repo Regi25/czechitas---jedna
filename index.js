@@ -1,2 +1,2 @@
-import "./soubor/ukol4.js";
+import "./soubor/ukol5.js";
 
