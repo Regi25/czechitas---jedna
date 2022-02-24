@@ -7,4 +7,4 @@ for (let a = 1; a <=10; a++);
    console.log("A:" + a);
    console.log("B:" + b);
    }  
- }
+  }
