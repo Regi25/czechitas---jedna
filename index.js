@@ -1,3 +1,5 @@
+import ".soubor/ukol.js";
+
 /*let jmeno = "Petra";
 let vek = 34;
 let vaha = 65;
